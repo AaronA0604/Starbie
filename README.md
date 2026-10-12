@@ -1,0 +1,1 @@
+This is a starboy-like device. I shaped it like a duck, since I plan on expanding it to be used as a debugging tool where in addition to its starboy features, it can detect if someone is speaking to it and respond in simple prompting sentences.
