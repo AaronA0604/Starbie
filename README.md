@@ -2,10 +2,15 @@ This is a starboy-like device. I shaped it like a duck, since I plan on expandin
 
 Controls
 Control	                    |   What it does
+---------------------------------------------------------------------------------------------------
 Button 1, first press	      |   Opens the radial menu
+---------------------------------------------------------------------------------------------------
 Tilt while menu is open	    |   Moves the selector ball; each general direction is one large sector
+---------------------------------------------------------------------------------------------------
 Button 1, second press	    |   Chooses the highlighted action
+---------------------------------------------------------------------------------------------------
 Button 2	                  |   Shows or hides the stats screen
+---------------------------------------------------------------------------------------------------
 Shake while seeing the pet	|   Gives Starbie its shake reaction
 
 <img width="627" height="628" alt="Screenshot 2026-10-12 at 5 11 19 PM" src="https://github.com/user-attachments/assets/ab0fbeb9-0327-43bd-a181-041712c6e7d4" />
