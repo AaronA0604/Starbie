@@ -4,9 +4,9 @@
 <!-- Generated: 2026-10-10T00:52:06.561Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuv8eskg0euo01smf85in0iy). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> This is a small motion controlled device that acts like your pet. You can feed it, or have it take a nap! It also comes with a mic and speaker because I had wanted to add a VAD system to it.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
