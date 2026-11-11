@@ -9,6 +9,6 @@ Controls
 | Button 2 | Shows or hides the stats screen |
 | Shake while viewing the pet | Triggers Starbie's shake reaction |
 
-<img width="670" height="681" alt="Screenshot 2026-11-11 at 6 18 15 PM" src="https://github.com/user-attachments/assets/4b94d223-cea5-4618-81bb-893657dd567b" />
+<img width="705" height="706" alt="Screenshot 2026-11-11 at 6 28 09 PM" src="https://github.com/user-attachments/assets/d2d5e52e-4b2d-4405-977c-f20627900c79" />
 
 <img width="988" height="712" alt="Screenshot 2026-10-21 at 5 42 44 PM" src="https://github.com/user-attachments/assets/6369f7cf-6b13-4b8b-b627-268cfaf6b8a0" />
